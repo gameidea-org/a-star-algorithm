@@ -1,4 +1,4 @@
-# A star algorithm
+# A* algorithm
 It is the code repository for my [A star algorithm](https://gameidea.org/2023/12/04/pathfinding-using-a-algorithm/) tutorial on my website. Feel free to do whatever you want to do with it.
 
 ## Notes
